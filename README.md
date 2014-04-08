@@ -1,4 +1,4 @@
-title: Tron3D
+Tron3D
 ============
 authors: 
 - Jordi Petit 
@@ -7,7 +7,7 @@ authors:
 - Omer Gimenez
 
 links:  
-- tron3d.jutge.org 
+- http://tron3d.jutge.org 
 - http://porra.jutge.org/tron3d/
 
 (c) Universitat Politècnica de Catalunya, 2013
