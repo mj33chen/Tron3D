@@ -1,0 +1,147 @@
+#!/bin/bash
+
+# Settings
+tmpfile=/tmp/tron
+
+# Defaults
+njobs=4
+game=icosahedron
+count=1000
+rand=true
+
+declare -a players wins total tmpfiles
+argc=0
+
+usage() {
+	echo "Usage: $0 [options] player1 [player2 ...]
+
+Options:
+    -c N, --count N          Number of games to do
+    -g GAME, --game GAME     Name of the game config to use
+    -j N, --jobs N           Number of jobs to spawn
+    -s, --static             Do not randomize the order of players
+"
+	exit 0
+}
+
+while [ -n "$1" ]; do
+	case "$1" in
+		-c|--count) count=$2; shift 2 ;;
+		-g|--game) game=$2; shift 2 ;;
+		-j|--jobs) njobs=$2; shift 2 ;;
+		-s|--static) rand=false; shift ;;
+		-h|--help) usage; exit 0 ;;
+		-*) echo "Invalid option: $1"; exit 1 ;;
+		*) players[$argc]=$1; let argc++; shift ;;
+	esac
+done
+game_p=${game}.gam
+
+nplayers=$(sed -n 's/^nb_players.*\([0-9]\+\)/\1/p' $game_p)
+if [ $argc -eq 0 ]; then
+	usage
+	exit 0
+elif [ ! $argc -eq $nplayers ]; then
+	echo "$nplayers players required, $argc provided"
+	exit 2
+fi
+
+i=0
+for p in ${players[@]}; do
+	wins[$i]=0
+	total[$i]=0
+	let i++
+done
+ls $game_p &>/dev/null || { echo "No such game: $game"; exit 2; }
+for (( i=0; i<$njobs; i++ )); do
+	tmpfiles[$i]=${tmpfile}${i}.txt
+	: > ${tmpfiles[$i]}
+done
+
+i_todo=$(( ($count/$njobs)+1 ))
+i_done=0
+for (( b=0; b<$i_todo; b++ )); do
+	for (( i=0; i<$njobs; i++ )); do
+		j=$(($i_done+$i))
+		[ $j -ge $count ] && break
+		if $rand; then
+			rpos=()
+			used=()
+			rplayers=()
+			rresult=()
+			for (( n=0; n<$nplayers; n++ )); do 
+				rpos[$n]=-1
+				used[$n]=false
+				rplayers[$n]=-1
+				rresult[$n]=-1
+			done
+			for (( n=0; n<$nplayers; n++ )); do
+				while true; do
+					r=$(($RANDOM%$nplayers))
+					if ! ${used[$r]}; then
+						rplayers[$r]=${players[$n]}
+						rpos[$n]=$(($r+1))
+						used[$r]=true
+						break
+					fi
+				done
+			done
+			./Game ${rplayers[@]} -s $RANDOM < $game_p 2>/dev/null |\
+				grep '^score ' | tail -n 1 | (read -a result; [ -n $result ] &&\
+					for (( r=0; r<$nplayers; r++ )); do
+						[ $r -gt 0 ] && echo -n ' '
+						echo -n ${result[${rpos[$r]}]}
+					done
+					echo ) >> ${tmpfiles[$i]} &
+		else
+			./Game ${players[@]} -s $RANDOM < $game_p 2>/dev/null |\
+				grep '^score ' | tail -n 1 | (read -a result;\
+					echo ${result[@]:1} ) >> ${tmpfiles[$i]} &
+		fi
+	done
+	wait
+	i_done=$(($i_done+$i))
+	echo -en "\r$i_done ($(($i_done*100/$count))%) [ ${rplayers[@]} ]"
+done
+echo -e "\r$i_done ($(($i_done*100/$count))%) [ ${players[@]} ]"
+
+max() {
+	imax=0
+	vmax=-1
+	i=0
+	for v in $@; do
+		[ $v -eq $vmax ] && return
+		[ $v -gt $vmax ] && { imax=$i; vmax=$v; }
+		let i++
+	done
+	echo -n $imax
+}
+
+n=0
+for (( j=0; j<$njobs; j++ )); do
+	while read result; do
+		[ -z "$result" ] && continue
+		i=0
+		for r in ${result[@]}; do
+			total[$i]=$((${total[$i]}+$r))
+			let i++
+		done
+		winner=$(max $result)
+		if [ -n "$winner" ]; then
+			wins[$winner]=$(( ${wins[$winner]} + 1 ))
+			let n++
+			echo -en "\rSuccessful games with no ties: $n"
+		fi
+	done < ${tmpfiles[$j]}
+done
+
+echo
+echo
+(
+echo -e "Name;;% wins;;# wins;;# points;;~ points"
+for (( i=0; i<$nplayers; i++ )); do
+	p_wins=$( bc -l <<< "scale=3; (${wins[$i]}*100) / $n" )
+	a_points=$( bc -l <<< "scale=2; (${total[$i]}) / $n" )
+	echo -e "${players[i]};;$p_wins;;${wins[$i]};;${total[$i]};;$a_points"
+done
+) | column -t -s ';;'

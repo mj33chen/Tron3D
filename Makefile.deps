@@ -1,0 +1,31 @@
+AIDemo.o: AIDemo.cc Player.hh Utils.hh BackTrace.hh Board.hh Action.hh \
+ Registry.hh
+AIIm_feelin_18.o: AIIm_feelin_18.cc Player.hh Utils.hh BackTrace.hh \
+ Board.hh Action.hh Registry.hh
+AIIm_feelin_19.o: AIIm_feelin_19.cc Player.hh Utils.hh BackTrace.hh \
+ Board.hh Action.hh Registry.hh
+AIIm_feelin_20.o: AIIm_feelin_20.cc Player.hh Utils.hh BackTrace.hh \
+ Board.hh Action.hh Registry.hh
+AIIm_feelin_21.o: AIIm_feelin_21.cc Player.hh Utils.hh BackTrace.hh \
+ Board.hh Action.hh Registry.hh
+AILiota_fuig.o: AILiota_fuig.cc Player.hh Utils.hh BackTrace.hh Board.hh \
+ Action.hh Registry.hh
+AINorwegianWod.o: AINorwegianWod.cc Player.hh Utils.hh BackTrace.hh \
+ Board.hh Action.hh Registry.hh
+AINull.o: AINull.cc Player.hh Utils.hh BackTrace.hh Board.hh Action.hh \
+ Registry.hh
+AIim_feelin_22.o: AIim_feelin_22.cc Player.hh Utils.hh BackTrace.hh \
+ Board.hh Action.hh Registry.hh
+Action.o: Action.cc Action.hh Utils.hh BackTrace.hh Board.hh
+BackTrace.o: BackTrace.cc BackTrace.hh
+Board.o: Board.cc Board.hh Utils.hh BackTrace.hh Action.hh
+Game.o: Game.cc Game.hh Utils.hh BackTrace.hh Board.hh Action.hh \
+ Player.hh Registry.hh
+Im_feelin_17.o: Im_feelin_17.cc Player.hh Utils.hh BackTrace.hh Board.hh \
+ Action.hh Registry.hh
+Main.o: Main.cc Game.hh Utils.hh BackTrace.hh Board.hh Action.hh \
+ Player.hh Registry.hh
+Player.o: Player.cc Player.hh Utils.hh BackTrace.hh Board.hh Action.hh \
+ Registry.hh
+Registry.o: Registry.cc Registry.hh Utils.hh BackTrace.hh
+Utils.o: Utils.cc Utils.hh BackTrace.hh

@@ -1,0 +1,5075 @@
+tron3d v1.0
+map icosahedron
+nb_players 4
+nb_bikes 2
+nb_rounds 180
+bonus_round 50
+turbo_duration 8
+ghost_duration 3
+score_bonus 50
+secgame false
+names Tonto Tonto Tonto Tonto
+
+
+round 0
+score 0 0 0 0
+status 0 0 0 0
+nnnnnnnnnnnnnnnnnnnnnnnnnn0nnn4nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn3nn7nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2nn6nnnnn15nnnnnnnnn
+0 n 26 0 0 1
+1 n 151 0 0 1
+2 n 142 0 0 1
+3 n 87 0 0 1
+0 n 30 0 0 1
+1 n 152 0 0 1
+2 n 145 0 0 1
+3 n 90 0 0 1
+actions
+0
+0 19 0
+4 29 0
+-1
+1
+1 119 0
+5 79 0
+-1
+2
+2 136 0
+6 144 0
+-1
+3
+3 47 0
+7 88 0
+-1
+
+movements
+0 19 0
+4 29 0
+2 136 0
+6 144 0
+3 47 0
+7 88 0
+1 119 0
+5 79 0
+-1
+
+round 1
+score 20 20 20 20
+status 0 0 0 0
+nnnnnnnnnnnnnnnnnnn0nnnnnn0nn44nnnnnnnnnnnnnnnn3nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn5nnnnnnn37n7nnnnnnnnnnnnnnnnnnnnnnnnnnnn1nnnnnnnnnnnnnnnn2nnnnn2n66nnnnn15nnnnnnnnn
+0 n 19 0 0 1
+1 n 119 0 0 1
+2 n 136 0 0 1
+3 n 47 0 0 1
+0 n 29 0 0 1
+1 n 79 0 0 1
+2 n 144 0 0 1
+3 n 88 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 2
+score 20 20 20 20
+status 0 0 0 0
+nnnnnnnnnnnnnnnnnnn0nnnnnn0nn44nnnnnnnnnnnnnnnn3nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn5nnnnnnn37n7nnnnnnnnnnnnnnnnnnnnnnnnnnnn1nnnnnnnnnnnnnnnn2nnnnn2n66nnnnn15nnnnnnnnn
+0 n 19 0 0 1
+1 n 119 0 0 1
+2 n 136 0 0 1
+3 n 47 0 0 1
+0 n 29 0 0 1
+1 n 79 0 0 1
+2 n 144 0 0 1
+3 n 88 0 0 1
+actions
+0
+0 21 0
+4 25 0
+-1
+1
+1 115 0
+5 77 0
+-1
+2
+2 138 0
+6 146 0
+-1
+3
+3 43 0
+7 84 0
+-1
+
+movements
+1 115 0
+5 77 0
+0 21 0
+4 25 0
+2 138 0
+6 146 0
+3 43 0
+7 84 0
+-1
+
+round 3
+score 40 40 40 40
+status 0 0 0 0
+nnnnnnnnnnnnnnnnnnn0n0nnn40nn44nnnnnnnnnnnn3nnn3nnnnnnnnnnnnnnnnnnnnnnnnnnnnn5n5nnnn7nn37n7nnnnnnnnnnnnnnnnnnnnnnnn1nnn1nnnnnnnnnnnnnnnn2n2nnn2n666nnnn15nnnnnnnnn
+0 n 21 0 0 1
+1 n 115 0 0 1
+2 n 138 0 0 1
+3 n 43 0 0 1
+0 n 25 0 0 1
+1 n 77 0 0 1
+2 n 146 0 0 1
+3 n 84 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 4
+score 40 40 40 40
+status 0 0 0 0
+nnnnnnnnnnnnnnnnnnn0n0nnn40nn44nnnnnnnnnnnn3nnn3nnnnnnnnnnnnnnnnnnnnnnnnnnnnn5n5nnnn7nn37n7nnnnnnnnnnnnnnnnnnnnnnnn1nnn1nnnnnnnnnnnnnnnn2n2nnn2n666nnnn15nnnnnnnnn
+0 n 21 0 0 1
+1 n 115 0 0 1
+2 n 138 0 0 1
+3 n 43 0 0 1
+0 n 25 0 0 1
+1 n 77 0 0 1
+2 n 146 0 0 1
+3 n 84 0 0 1
+actions
+0
+0 23 0
+4 60 0
+-1
+1
+1 4 0
+5 54 0
+-1
+2
+2 134 0
+6 159 0
+-1
+3
+3 85 0
+7 50 0
+-1
+
+movements
+0 23 0
+4 60 0
+3 85 0
+7 50 0
+2 134 0
+6 159 0
+1 4 0
+5 54 0
+-1
+
+round 5
+score 60 60 60 60
+status 0 0 0 0
+nnnn1nnnnnnnnnnnnnn0n0n0n40nn44nnnnnnnnnnnn3nnn3nn7nnn5nnnnn4nnnnnnnnnnnnnnnn5n5nnnn73n37n7nnnnnnnnnnnnnnnnnnnnnnnn1nnn1nnnnnnnnnnnnnn2n2n2nnn2n666nnnn15nnnnnn6nn
+0 n 23 0 0 1
+1 n 4 0 0 1
+2 n 134 0 0 1
+3 n 85 0 0 1
+0 n 60 0 0 1
+1 n 54 0 0 1
+2 n 159 0 0 1
+3 n 50 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 6
+score 60 60 60 60
+status 0 0 0 0
+nnnn1nnnnnnnnnnnnnn0n0n0n40nn44nnnnnnnnnnnn3nnn3nn7nnn5nnnnn4nnnnnnnnnnnnnnnn5n5nnnn73n37n7nnnnnnnnnnnnnnnnnnnnnnnn1nnn1nnnnnnnnnnnnnn2n2n2nnn2n666nnnn15nnnnnn6nn
+0 n 23 0 0 1
+1 n 4 0 0 1
+2 n 134 0 0 1
+3 n 85 0 0 1
+0 n 60 0 0 1
+1 n 54 0 0 1
+2 n 159 0 0 1
+3 n 50 0 0 1
+actions
+0
+0 68 0
+4 62 0
+-1
+1
+1 73 0
+5 53 0
+-1
+2
+2 132 0
+6 160 0
+-1
+3
+3 158 0
+7 49 0
+-1
+
+movements
+3 158 0
+7 49 0
+2 132 0
+6 160 0
+1 73 0
+5 53 0
+0 68 0
+4 62 0
+-1
+
+round 7
+score 80 80 80 80
+status 0 0 0 0
+nnnn1nnnnnnnnnnnnnn0n0n0n40nn44nnnnnnnnnnnn3nnn3n77nn55nnnnn4n4nnnnn0nnnn1nnn5n5nnnn73n37n7nnnnnnnnnnnnnnnnnnnnnnnn1nnn1nnnnnnnnnnnn2n2n2n2nnn2n666nnnn15nnnnn366n
+0 n 68 0 0 1
+1 n 73 0 0 1
+2 n 132 0 0 1
+3 n 158 0 0 1
+0 n 62 0 0 1
+1 n 53 0 0 1
+2 n 160 0 0 1
+3 n 49 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 8
+score 80 80 80 80
+status 0 0 0 0
+nnnn1nnnnnnnnnnnnnn0n0n0n40nn44nnnnnnnnnnnn3nnn3n77nn55nnnnn4n4nnnnn0nnnn1nnn5n5nnnn73n37n7nnnnnnnnnnnnnnnnnnnnnnnn1nnn1nnnnnnnnnnnn2n2n2n2nnn2n666nnnn15nnnnn366n
+0 n 68 0 0 1
+1 n 73 0 0 1
+2 n 132 0 0 1
+3 n 158 0 0 1
+0 n 62 0 0 1
+1 n 53 0 0 1
+2 n 160 0 0 1
+3 n 49 0 0 1
+actions
+0
+0 20 0
+4 63 0
+-1
+1
+1 147 0
+5 52 0
+-1
+2
+2 102 0
+6 161 0
+-1
+3
+3 93 0
+7 10 0
+-1
+
+movements
+3 93 0
+7 10 0
+0 20 0
+4 63 0
+2 102 0
+6 161 0
+1 147 0
+5 52 0
+-1
+
+round 9
+score 100 100 100 100
+status 0 0 0 0
+nnnn1nnnnn7nnnnnnnn000n0n40nn44nnnnnnnnnnnn3nnn3n77n555nnnnn4n44nnnn0nnnn1nnn5n5nnnn73n37n7nn3nnnnnnnn2nnnnnnnnnnnn1nnn1nnnnnnnnnnnn2n2n2n2nnn2n6661nnn15nnnnn3666
+0 n 20 0 0 1
+1 n 147 0 0 1
+2 n 102 0 0 1
+3 n 93 0 0 1
+0 n 63 0 0 1
+1 n 52 0 0 1
+2 n 161 0 0 1
+3 n 10 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 10
+score 100 100 100 100
+status 0 0 0 0
+nnnn1nnnnn7nnnnnnnn000n0n40nn44nnnnnnnnnnnn3nnn3n77n555nnnnn4n44nnnn0nnnn1nnn5n5nnnn73n37n7nn3nnnnnnnn2nnnnnnnnnnnn1nnn1nnnnnnnnnnnn2n2n2n2nnn2n6661nnn15nnnnn3666
+0 n 20 0 0 1
+1 n 147 0 0 1
+2 n 102 0 0 1
+3 n 93 0 0 1
+0 n 63 0 0 1
+1 n 52 0 0 1
+2 n 161 0 0 1
+3 n 10 0 0 1
+actions
+0
+0 18 0
+4 65 0
+-1
+1
+1 113 0
+5 46 0
+-1
+2
+2 3 0
+6 98 0
+-1
+3
+3 97 0
+7 76 0
+-1
+
+movements
+3 97 0
+7 76 0
+1 113 0
+5 46 0
+0 18 0
+4 65 0
+2 3 0
+6 98 0
+-1
+
+round 11
+score 120 120 120 120
+status 0 0 0 0
+nnn21nnnnn7nnnnnnn0000n0n40nn44nnnnnnnnnnnn3nn53n77n555nnnnn4n44n4nn0nnnn1nn75n5nnnn73n37n7nn3nnn36nnn2nnnnnnnnnn1n1nnn1nnnnnnnnnnnn2n2n2n2nnn2n6661nnn15nnnnn3666
+0 n 18 0 0 1
+1 n 113 0 0 1
+2 n 3 0 0 1
+3 n 97 0 0 1
+0 n 65 0 0 1
+1 n 46 0 0 1
+2 n 98 0 0 1
+3 n 76 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 12
+score 120 120 120 120
+status 0 0 0 0
+nnn21nnnnn7nnnnnnn0000n0n40nn44nnnnnnnnnnnn3nn53n77n555nnnnn4n44n4nn0nnnn1nn75n5nnnn73n37n7nn3nnn36nnn2nnnnnnnnnn1n1nnn1nnnnnnnnnnnn2n2n2n2nnn2n6661nnn15nnnnn3666
+0 n 18 0 0 1
+1 n 113 0 0 1
+2 n 3 0 0 1
+3 n 97 0 0 1
+0 n 65 0 0 1
+1 n 46 0 0 1
+2 n 98 0 0 1
+3 n 76 0 0 1
+actions
+0
+0 16 0
+4 106 0
+-1
+1
+1 112 0
+5 42 0
+-1
+2
+2 123 0
+6 101 0
+-1
+3
+3 156 0
+7 78 0
+-1
+
+movements
+0 16 0
+4 106 0
+3 156 0
+7 78 0
+1 112 0
+5 42 0
+2 123 0
+6 101 0
+-1
+
+round 13
+score 140 140 140 140
+status 0 0 0 0
+nnn21nnnnn7nnnnn0n0000n0n40nn44nnnnnnnnnnn53nn53n77n555nnnnn4n44n4nn0nnnn1nn7575nnnn73n37n7nn3nnn36nn62nnn4nnnnn11n1nnn1nnn2nnnnnnnn2n2n2n2nnn2n6661nnn15nnn3n3666
+0 n 16 0 0 1
+1 n 112 0 0 1
+2 n 123 0 0 1
+3 n 156 0 0 1
+0 n 106 0 0 1
+1 n 42 0 0 1
+2 n 101 0 0 1
+3 n 78 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 14
+score 140 140 140 140
+status 0 0 0 0
+nnn21nnnnn7nnnnn0n0000n0n40nn44nnnnnnnnnnn53nn53n77n555nnnnn4n44n4nn0nnnn1nn7575nnnn73n37n7nn3nnn36nn62nnn4nnnnn11n1nnn1nnn2nnnnnnnn2n2n2n2nnn2n6661nnn15nnn3n3666
+0 n 16 0 0 1
+1 n 112 0 0 1
+2 n 123 0 0 1
+3 n 156 0 0 1
+0 n 106 0 0 1
+1 n 42 0 0 1
+2 n 101 0 0 1
+3 n 78 0 0 1
+actions
+0
+0 14 0
+4 9 0
+-1
+1
+1 117 0
+5 33 0
+-1
+2
+2 114 0
+6 99 0
+-1
+3
+3 137 0
+7 81 0
+-1
+
+movements
+1 117 0
+5 33 0
+2 114 0
+6 99 0
+0 14 0
+4 9 0
+3 137 0
+7 81 0
+-1
+
+round 15
+score 160 160 160 160
+status 0 0 0 0
+nnn21nnnn47nnn0n0n0000n0n40nn44nn5nnnnnnnn53nn53n77n555nnnnn4n44n4nn0nnnn1nn7575n7nn73n37n7nn3nnn366n62nnn4nnnnn1121n1n1nnn2nnnnnnnn2n2n232nnn2n6661nnn15nnn3n3666
+0 n 14 0 0 1
+1 n 117 0 0 1
+2 n 114 0 0 1
+3 n 137 0 0 1
+0 n 9 0 0 1
+1 n 33 0 0 1
+2 n 99 0 0 1
+3 n 81 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 16
+score 160 160 160 160
+status 0 0 0 0
+nnn21nnnn47nnn0n0n0000n0n40nn44nn5nnnnnnnn53nn53n77n555nnnnn4n44n4nn0nnnn1nn7575n7nn73n37n7nn3nnn366n62nnn4nnnnn1121n1n1nnn2nnnnnnnn2n2n232nnn2n6661nnn15nnn3n3666
+0 n 14 0 0 1
+1 n 117 0 0 1
+2 n 114 0 0 1
+3 n 137 0 0 1
+0 n 9 0 0 1
+1 n 33 0 0 1
+2 n 99 0 0 1
+3 n 81 0 0 1
+actions
+0
+0 11 0
+4 64 0
+-1
+1
+1 109 0
+5 35 0
+-1
+2
+2 105 0
+6 95 0
+-1
+3
+3 133 0
+7 83 0
+-1
+
+movements
+1 109 0
+5 35 0
+3 133 0
+7 83 0
+0 11 0
+4 64 0
+2 105 0
+6 95 0
+-1
+
+round 17
+score 180 180 180 180
+status 0 0 0 0
+nnn21nnnn470nn0n0n0000n0n40nn44nn5n5nnnnnn53nn53n77n555nnnnn4n4444nn0nnnn1nn7575n7n773n37n7nn3n6n366n62nn24nn1nn1121n1n1nnn2nnnnnnnn232n232nnn2n6661nnn15nnn3n3666
+0 n 11 0 0 1
+1 n 109 0 0 1
+2 n 105 0 0 1
+3 n 133 0 0 1
+0 n 64 0 0 1
+1 n 35 0 0 1
+2 n 95 0 0 1
+3 n 83 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 18
+score 180 180 180 180
+status 0 0 0 0
+nnn21nnnn470nn0n0n0000n0n40nn44nn5n5nnnnnn53nn53n77n555nnnnn4n4444nn0nnnn1nn7575n7n773n37n7nn3n6n366n62nn24nn1nn1121n1n1nnn2nnnnnnnn232n232nnn2n6661nnn15nnn3n3666
+0 n 11 0 0 1
+1 n 109 0 0 1
+2 n 105 0 0 1
+3 n 133 0 0 1
+0 n 64 0 0 1
+1 n 35 0 0 1
+2 n 95 0 0 1
+3 n 83 0 0 1
+actions
+0
+0 67 0
+4 61 0
+-1
+1
+1 111 0
+5 24 0
+-1
+2
+2 107 0
+6 96 0
+-1
+3
+3 130 0
+7 154 0
+-1
+
+movements
+0 67 0
+4 61 0
+1 111 0
+5 24 0
+2 107 0
+6 96 0
+3 130 0
+7 154 0
+-1
+
+round 19
+score 200 200 200 200
+status 0 0 0 0
+nnn21nnnn470nn0n0n0000n0540nn44nn5n5nnnnnn53nn53n77n555nnnnn444444n00nnnn1nn7575n7n773n37n7nn3n66366n62nn242n1n11121n1n1nnn2nnnnnn3n232n232nnn2n6661nnn15n7n3n3666
+0 n 67 0 0 1
+1 n 111 0 0 1
+2 n 107 0 0 1
+3 n 130 0 0 1
+0 n 61 0 0 1
+1 n 24 0 0 1
+2 n 96 0 0 1
+3 n 154 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 20
+score 200 200 200 200
+status 0 0 0 0
+nnn21nnnn470nn0n0n0000n0540nn44nn5n5nnnnnn53nn53n77n555nnnnn444444n00nnnn1nn7575n7n773n37n7nn3n66366n62nn242n1n11121n1n1nnn2nnnnnn3n232n232nnn2n6661nnn15n7n3n3666
+0 n 67 0 0 1
+1 n 111 0 0 1
+2 n 107 0 0 1
+3 n 130 0 0 1
+0 n 61 0 0 1
+1 n 24 0 0 1
+2 n 96 0 0 1
+3 n 154 0 0 1
+actions
+0
+0 69 0
+4 57 0
+-1
+1
+1 110 0
+5 28 0
+-1
+2
+2 103 0
+6 38 0
+-1
+3
+3 129 0
+7 153 0
+-1
+
+movements
+1 110 0
+5 28 0
+0 69 0
+4 57 0
+3 129 0
+7 153 0
+2 103 0
+6 38 0
+-1
+
+round 21
+score 220 220 220 220
+status 0 0 0 0
+nnn21nnnn470nn0n0n0000n0540n544nn5n5nn6nnn53nn53n77n555nn4nn444444n000nnn1nn7575n7n773n37n7nn3n66366n622n242n1111121n1n1nnn2nnnnn33n232n232nnn2n6661nnn1577n3n3666
+0 n 69 0 0 1
+1 n 110 0 0 1
+2 n 103 0 0 1
+3 n 129 0 0 1
+0 n 57 0 0 1
+1 n 28 0 0 1
+2 n 38 0 0 1
+3 n 153 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 22
+score 220 220 220 220
+status 0 0 0 0
+nnn21nnnn470nn0n0n0000n0540n544nn5n5nn6nnn53nn53n77n555nn4nn444444n000nnn1nn7575n7n773n37n7nn3n66366n622n242n1111121n1n1nnn2nnnnn33n232n232nnn2n6661nnn1577n3n3666
+0 n 69 0 0 1
+1 n 110 0 0 1
+2 n 103 0 0 1
+3 n 129 0 0 1
+0 n 57 0 0 1
+1 n 28 0 0 1
+2 n 38 0 0 1
+3 n 153 0 0 1
+actions
+0
+0 72 0
+4 1 0
+-1
+1
+1 148 0
+5 31 0
+-1
+2
+2 104 0
+6 39 0
+-1
+3
+3 126 0
+7 91 0
+-1
+
+movements
+2 104 0
+6 39 0
+1 148 0
+5 31 0
+0 72 0
+4 1 0
+3 126 0
+7 91 0
+-1
+
+round 23
+score 240 240 240 240
+status 0 0 0 0
+n4n21nnnn470nn0n0n0000n0540n5445n5n5nn66nn53nn53n77n555nn4nn444444n000nn01nn7575n7n773n37n77n3n66366n6222242n1111121n1n1nnn2nn3nn33n232n232nnn2n66611nn1577n3n3666
+0 n 72 0 0 1
+1 n 148 0 0 1
+2 n 104 0 0 1
+3 n 126 0 0 1
+0 n 1 0 0 1
+1 n 31 0 0 1
+2 n 39 0 0 1
+3 n 91 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 24
+score 240 240 240 240
+status 0 0 0 0
+n4n21nnnn470nn0n0n0000n0540n5445n5n5nn66nn53nn53n77n555nn4nn444444n000nn01nn7575n7n773n37n77n3n66366n6222242n1111121n1n1nnn2nn3nn33n232n232nnn2n66611nn1577n3n3666
+0 n 72 0 0 1
+1 n 148 0 0 1
+2 n 104 0 0 1
+3 n 126 0 0 1
+0 n 1 0 0 1
+1 n 31 0 0 1
+2 n 39 0 0 1
+3 n 91 0 0 1
+actions
+0
+0 70 0
+4 94 0
+-1
+1
+1 149 0
+5 32 0
+-1
+2
+2 108 0
+6 40 0
+-1
+3
+3 121 0
+7 92 0
+-1
+
+movements
+2 108 0
+6 40 0
+1 149 0
+5 32 0
+3 121 0
+7 92 0
+0 70 0
+4 94 0
+-1
+
+round 25
+score 260 260 260 260
+status 0 0 0 0
+n4n21nnnn470nn0n0n0000n0540n544555n5nn666n53nn53n77n555nn4nn444444n0000n01nn7575n7n773n37n7773466366n622224221111121n1n1n3n2nn3nn33n232n232nnn2n666111n1577n3n3666
+0 n 70 0 0 1
+1 n 149 0 0 1
+2 n 108 0 0 1
+3 n 121 0 0 1
+0 n 94 0 0 1
+1 n 32 0 0 1
+2 n 40 0 0 1
+3 n 92 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 26
+score 260 260 260 260
+status 0 0 0 0
+n4n21nnnn470nn0n0n0000n0540n544555n5nn666n53nn53n77n555nn4nn444444n0000n01nn7575n7n773n37n7773466366n622224221111121n1n1n3n2nn3nn33n232n232nnn2n666111n1577n3n3666
+0 n 70 0 0 1
+1 n 149 0 0 1
+2 n 108 0 0 1
+3 n 121 0 0 1
+0 n 94 0 0 1
+1 n 32 0 0 1
+2 n 40 0 0 1
+3 n 92 0 0 1
+actions
+0
+0 66 0
+4 34 0
+-1
+1
+1 58 0
+5 59 0
+-1
+2
+2 110 0
+6 45 0
+-1
+3
+3 118 0
+7 6 0
+-1
+
+movements
+1 58 0
+5 59 0
+3 118 0
+7 6 0
+0 66 0
+4 34 0
+2 110 0
+6 45 0
+-1
+
+round 27
+score 280 280 270 280
+status 0 0 0 0
+n4nn1n7nn470nn0n0n0000n0540n54455545nn666n53n653n77n555nn41544444400000n01nn7575n7n773n37n7773466366n6nnnn4nn11111n1n131n3nnnn3nn33nn3nnn3nnnnnn666111n1577n3n3666
+0 n 66 0 0 1
+1 n 58 0 0 1
+2 n 110 0 0 0
+3 n 118 0 0 1
+0 n 34 0 0 1
+1 n 59 0 0 1
+2 n 45 0 0 1
+3 n 6 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 28
+score 280 280 270 280
+status 0 0 0 0
+n4nn1n7nn470nn0n0n0000n0540n54455545nn666n53n653n77n555nn41544444400000n01nn7575n7n773n37n7773466366n6nnnn4nn11111n1n131n3nnnn3nn33nn3nnn3nnnnnn666111n1577n3n3666
+0 n 66 0 0 1
+1 n 58 0 0 1
+2 n 110 0 0 0
+3 n 118 0 0 1
+0 n 34 0 0 1
+1 n 59 0 0 1
+2 n 45 0 0 1
+3 n 6 0 0 1
+actions
+0
+0 5 0
+4 36 0
+-1
+1
+1 5 0
+5 63 0
+-1
+2
+6 37 0
+-1
+3
+3 114 0
+7 131 0
+-1
+
+movements
+6 37 0
+3 114 0
+7 131 0
+0 5 0
+4 36 0
+1 5 0
+5 63 0
+-1
+
+round 29
+score 300 280 280 300
+status 0 0 0 0
+n4nnn07nn470nn0n0n0000n0n40nn44nnn4n46666nn3n6n3n77nnnnnn4nn44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3nnn3nn3nnnn3nn337n3nnn3nnnnnn666nnnnnn77n3n3666
+0 n 5 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 114 0 0 1
+0 n 36 0 0 1
+1 n 63 0 0 0
+2 n 37 0 0 1
+3 n 131 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 30
+score 300 280 280 300
+status 0 0 0 0
+n4nnn07nn470nn0n0n0000n0n40nn44nnn4n46666nn3n6n3n77nnnnnn4nn44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3nnn3nn3nnnn3nn337n3nnn3nnnnnn666nnnnnn77n3n3666
+0 n 5 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 114 0 0 1
+0 n 36 0 0 1
+1 n 63 0 0 0
+2 n 37 0 0 1
+3 n 131 0 0 1
+actions
+0
+0 58 0
+4 28 0
+-1
+1
+-1
+2
+6 44 0
+-1
+3
+3 116 0
+7 128 0
+-1
+
+movements
+6 44 0
+3 116 0
+7 128 0
+0 58 0
+4 28 0
+-1
+
+round 31
+score 320 280 290 320
+status 0 0 0 0
+n4nnn07nn470nn0n0n0000n0n40n444nnn4n46666nn366n3n77nnnnnn40n44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3n3n3nn3nnnn3n7337n3nnn3nnnnnn666nnnnnn77n3n3666
+0 n 58 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 116 0 0 1
+0 n 28 0 0 1
+1 n 63 0 0 0
+2 n 44 0 0 1
+3 n 128 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 32
+score 320 280 290 320
+status 0 0 0 0
+n4nnn07nn470nn0n0n0000n0n40n444nnn4n46666nn366n3n77nnnnnn40n44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3n3n3nn3nnnn3n7337n3nnn3nnnnnn666nnnnnn77n3n3666
+0 n 58 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 116 0 0 1
+0 n 28 0 0 1
+1 n 63 0 0 0
+2 n 44 0 0 1
+3 n 128 0 0 1
+actions
+0
+0 149 0
+4 24 0
+-1
+1
+-1
+2
+6 42 0
+-1
+3
+3 120 0
+7 124 0
+-1
+
+movements
+3 120 0
+7 124 0
+0 149 0
+4 24 0
+6 42 0
+-1
+
+round 33
+score 340 280 300 340
+status 0 0 0 0
+n4nnn07nn470nn0n0n0000n0440n444nnn4n46666n6366n3n77nnnnnn40n44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3n3n3n33nn7n3n7337n3nnn3nnnnnn666nn0nnn77n3n3666
+0 n 149 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 120 0 0 1
+0 n 24 0 0 1
+1 n 63 0 0 0
+2 n 42 0 0 1
+3 n 124 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 34
+score 340 280 300 340
+status 0 0 0 0
+n4nnn07nn470nn0n0n0000n0440n444nnn4n46666n6366n3n77nnnnnn40n44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3n3n3n33nn7n3n7337n3nnn3nnnnnn666nn0nnn77n3n3666
+0 n 149 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 120 0 0 1
+0 n 24 0 0 1
+1 n 63 0 0 0
+2 n 42 0 0 1
+3 n 124 0 0 1
+actions
+0
+0 147 0
+4 15 0
+-1
+1
+-1
+2
+6 52 0
+-1
+3
+3 117 0
+7 2 0
+-1
+
+movements
+0 147 0
+4 15 0
+3 117 0
+7 2 0
+6 52 0
+-1
+
+round 35
+score 360 280 310 360
+status 0 0 0 0
+n47nn07nn470nn040n0000n0440n444nnn4n46666n6366n3n77n6nnnn40n44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3n333n33nn7n3n7337n3nnn3nnnnnn6660n0nnn77n3n3666
+0 n 147 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 117 0 0 1
+0 n 15 0 0 1
+1 n 63 0 0 0
+2 n 52 0 0 1
+3 n 2 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 36
+score 360 280 310 360
+status 0 0 0 0
+n47nn07nn470nn040n0000n0440n444nnn4n46666n6366n3n77n6nnnn40n44444400000n0nnn7n7nn7n773n37n7773466366n6nnnn4nnnnnnn3n333n33nn7n3n7337n3nnn3nnnnnn6660n0nnn77n3n3666
+0 n 147 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 117 0 0 1
+0 n 15 0 0 1
+1 n 63 0 0 0
+2 n 52 0 0 1
+3 n 2 0 0 1
+actions
+0
+0 73 0
+4 0 0
+-1
+1
+-1
+2
+6 55 0
+-1
+3
+3 109 0
+7 122 0
+-1
+
+movements
+3 109 0
+7 122 0
+6 55 0
+0 73 0
+4 0 0
+-1
+
+round 37
+score 380 280 320 380
+status 0 0 0 0
+447nn07nn470nn040n0000n0440n444nnn4n46666n6366n3n77n6nn6n40n44444400000n00nn7n7nn7n773n37n7773466366n6nnnn4nn3nnnn3n333n337n7n3n7337n3nnn3nnnnnn6660n0nnn77n3n3666
+0 n 73 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 109 0 0 1
+0 n 0 0 0 1
+1 n 63 0 0 0
+2 n 55 0 0 1
+3 n 122 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 38
+score 380 280 320 380
+status 0 0 0 0
+447nn07nn470nn040n0000n0440n444nnn4n46666n6366n3n77n6nn6n40n44444400000n00nn7n7nn7n773n37n7773466366n6nnnn4nn3nnnn3n333n337n7n3n7337n3nnn3nnnnnn6660n0nnn77n3n3666
+0 n 73 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 109 0 0 1
+0 n 0 0 0 1
+1 n 63 0 0 0
+2 n 55 0 0 1
+3 n 122 0 0 1
+actions
+0
+0 113 0
+4 12 0
+-1
+1
+-1
+2
+6 56 0
+-1
+3
+3 105 0
+7 150 0
+-1
+
+movements
+6 56 0
+0 113 0
+4 12 0
+3 105 0
+7 150 0
+-1
+
+round 39
+score 400 280 330 400
+status 0 0 0 0
+447nn07nn4704n040n0000n0440n444nnn4n46666n6366n3n77n6nn6640n44444400000n00nn7n7nn7n773n37n7773466366n6nnn34nn3nnn03n333n337n7n3n7337n3nnn3nnnnnn6660n07nn77n3n3666
+0 n 113 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 105 0 0 1
+0 n 12 0 0 1
+1 n 63 0 0 0
+2 n 56 0 0 1
+3 n 150 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 40
+score 400 280 330 400
+status 0 0 0 0
+447nn07nn4704n040n0000n0440n444nnn4n46666n6366n3n77n6nn6640n44444400000n00nn7n7nn7n773n37n7773466366n6nnn34nn3nnn03n333n337n7n3n7337n3nnn3nnnnnn6660n07nn77n3n3666
+0 n 113 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 105 0 0 1
+0 n 12 0 0 1
+1 n 63 0 0 0
+2 n 56 0 0 1
+3 n 150 0 0 1
+actions
+0
+0 110 0
+4 13 0
+-1
+1
+-1
+2
+6 54 0
+-1
+3
+3 3 0
+7 152 0
+-1
+
+movements
+0 110 0
+4 13 0
+6 54 0
+3 3 0
+7 152 0
+-1
+
+round 41
+score 420 280 340 420
+status 0 0 0 0
+4473n07nn47044040n0000n0440n444nnn4n46666n6366n3n77n6n66640n44444400000n00nn7n7nn7n773n37n7773466366n6nnn34nn30nn03n333n337n7n3n7337n3nnn3nnnnnn6660n07n777n3n3666
+0 n 110 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 3 0 0 1
+0 n 13 0 0 1
+1 n 63 0 0 0
+2 n 54 0 0 1
+3 n 152 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 42
+score 420 280 340 420
+status 0 0 0 0
+4473n07nn47044040n0000n0440n444nnn4n46666n6366n3n77n6n66640n44444400000n00nn7n7nn7n773n37n7773466366n6nnn34nn30nn03n333n337n7n3n7337n3nnn3nnnnnn6660n07n777n3n3666
+0 n 110 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 3 0 0 1
+0 n 13 0 0 1
+1 n 63 0 0 0
+2 n 54 0 0 1
+3 n 152 0 0 1
+actions
+0
+0 108 0
+4 17 0
+-1
+1
+-1
+2
+6 53 0
+-1
+3
+3 123 0
+7 151 0
+-1
+
+movements
+6 53 0
+0 108 0
+4 17 0
+3 123 0
+7 151 0
+-1
+
+round 43
+score 440 280 350 440
+status 0 0 0 0
+4473n07nn4704404040000n0440n444nnn4n46666n6366n3n77n6666640n44444400000n00nn7n7nn7n773n37n7773466366n6nnn34n030nn03n333n33737n3n7337n3nnn3nnnnnn6660n077777n3n3666
+0 n 108 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 123 0 0 1
+0 n 17 0 0 1
+1 n 63 0 0 0
+2 n 53 0 0 1
+3 n 151 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 44
+score 440 280 350 440
+status 0 0 0 0
+4473n07nn4704404040000n0440n444nnn4n46666n6366n3n77n6666640n44444400000n00nn7n7nn7n773n37n7773466366n6nnn34n030nn03n333n33737n3n7337n3nnn3nnnnnn6660n077777n3n3666
+0 n 108 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 123 0 0 1
+0 n 17 0 0 1
+1 n 63 0 0 0
+2 n 53 0 0 1
+3 n 151 0 0 1
+actions
+0
+0 103 0
+4 15 0
+-1
+1
+-1
+2
+6 46 0
+-1
+3
+3 134 0
+7 74 0
+-1
+
+movements
+6 46 0
+0 103 0
+4 15 0
+3 134 0
+7 74 0
+-1
+
+round 45
+score 450 280 360 460
+status 0 0 0 0
+nn73n07nnn70nn0n0n0000n0nn0nnnnnnnnnn6666n636663n77n66666n0nnnnnnn00000n007n7n7nn7n773n37n7773n66366n6n0n3nn030nn03n333n33737n3n7337n33nn3nnnnnn6660n077777n3n3666
+0 n 103 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 134 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 46 0 0 1
+3 n 74 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 46
+score 450 280 360 460
+status 0 0 0 0
+nn73n07nnn70nn0n0n0000n0nn0nnnnnnnnnn6666n636663n77n66666n0nnnnnnn00000n007n7n7nn7n773n37n7773n66366n6n0n3nn030nn03n333n33737n3n7337n33nn3nnnnnn6660n077777n3n3666
+0 n 103 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 134 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 46 0 0 1
+3 n 74 0 0 1
+actions
+0
+0 104 0
+-1
+1
+-1
+2
+6 48 0
+-1
+3
+3 138 0
+7 4 0
+-1
+
+movements
+6 48 0
+0 104 0
+3 138 0
+7 4 0
+-1
+
+round 47
+score 460 280 370 480
+status 0 0 0 0
+nn73707nnn70nn0n0n0000n0nn0nnnnnnnnnn6666n636663677n66666n0nnnnnnn00000n007n7n7nn7n773n37n7773n66366n6n003nn030nn03n333n33737n3n7337n33nn33nnnnn6660n077777n3n3666
+0 n 104 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 138 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 48 0 0 1
+3 n 4 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 48
+score 460 280 370 480
+status 0 0 0 0
+nn73707nnn70nn0n0n0000n0nn0nnnnnnnnnn6666n636663677n66666n0nnnnnnn00000n007n7n7nn7n773n37n7773n66366n6n003nn030nn03n333n33737n3n7337n33nn33nnnnn6660n077777n3n3666
+0 n 104 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 138 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 48 0 0 1
+3 n 4 0 0 1
+actions
+0
+0 9 0
+-1
+1
+-1
+2
+6 47 0
+-1
+3
+3 136 0
+7 112 0
+-1
+
+movements
+0 9 0
+6 47 0
+3 136 0
+7 112 0
+-1
+
+round 49
+score 470 280 370 500
+status 0 0 0 0
+nn73707nn070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0nnnnnnn00000n007n7n7nn7n773n37n7773nnn3nnnnn003nn030n703n333n33737n3n7337n33n333nnnnnnnn0n077777n3n3nnn
+0 n 9 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 136 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 112 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 50
+score 470 280 370 500
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0nnnnnnn00000n007n7n7nn7n773n37n7773nnn3nnnnn003nn030n703n333n33737n3n7337n33n333nnnnnnnn0n077777n3n3nnn
+0 n 9 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 136 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 112 0 0 1
+actions
+0
+0 65 0
+-1
+1
+-1
+2
+-1
+3
+3 139 0
+7 111 0
+-1
+
+movements
+0 65 0
+3 139 0
+7 111 0
+-1
+
+round 51
+score 480 280 370 520
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0nnnnnn000000n007n7n7nn7n773n37n7773nnn3nnnnn003nn0307703n333n33737n3n7337n33n3333nnnnnnn0n077777n3n3nnn
+0 n 65 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 139 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 111 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 52
+score 480 280 370 520
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0nnnnnn000000n007n7n7nn7n773n37n7773nnn3nnnnn003nn0307703n333n33737n3n7337n33n3333nnnnnnn0n077777n3n3nnn
+0 n 65 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 139 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 111 0 0 1
+actions
+0
+0 63 0
+-1
+1
+-1
+2
+-1
+3
+3 141 0
+7 107 0
+-1
+
+movements
+0 63 0
+3 141 0
+7 107 0
+-1
+
+round 53
+score 490 280 370 540
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0nnnn0n000000n007n7n7nn7n773n37n7773nnn3nnnnn003n70307703n333n33737n3n7337n33n3333n3nnnnn0n077777n3n3nnn
+0 n 63 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 141 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 107 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 54
+score 490 280 370 540
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0nnnn0n000000n007n7n7nn7n773n37n7773nnn3nnnnn003n70307703n333n33737n3n7337n33n3333n3nnnnn0n077777n3n3nnn
+0 n 63 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 141 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 107 0 0 1
+actions
+0
+0 60 0
+-1
+1
+-1
+2
+-1
+3
+3 160 0
+7 102 0
+-1
+
+movements
+0 60 0
+3 160 0
+7 102 0
+-1
+
+round 55
+score 500 280 370 560
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0n0nn0n000000n007n7n7nn7n773n37n7773nnn3nnnn7003n70307703n333n33737n3n7337n33n3333n3nnnnn0n077777n3n3n3n
+0 n 60 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 160 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 102 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 56
+score 500 280 370 560
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn0n0nn0n000000n007n7n7nn7n773n37n7773nnn3nnnn7003n70307703n333n33737n3n7337n33n3333n3nnnnn0n077777n3n3n3n
+0 n 60 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 160 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 102 0 0 1
+actions
+0
+0 59 0
+-1
+1
+-1
+2
+-1
+3
+3 98 0
+7 142 0
+-1
+
+movements
+3 98 0
+7 142 0
+0 59 0
+-1
+
+round 57
+score 510 280 370 580
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773nnn33nnn7003n70307703n333n33737n3n7337n33n3333n37nnnn0n077777n3n3n3n
+0 n 59 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 98 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 142 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 58
+score 510 280 370 580
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnnnnnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773nnn33nnn7003n70307703n333n33737n3n7337n33n3333n37nnnn0n077777n3n3n3n
+0 n 59 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 98 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 142 0 0 1
+actions
+0
+0 32 0
+-1
+1
+-1
+2
+-1
+3
+3 96 0
+7 145 0
+-1
+
+movements
+0 32 0
+3 96 0
+7 145 0
+-1
+
+round 59
+score 520 280 370 600
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnn0nnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773nn333nnn7003n70307703n333n33737n3n7337n33n3333n37nn7n0n077777n3n3n3n
+0 n 32 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 96 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 145 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 60
+score 520 280 370 600
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnnnn0nnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773nn333nnn7003n70307703n333n33737n3n7337n33n3333n37nn7n0n077777n3n3n3n
+0 n 32 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 96 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 145 0 0 1
+actions
+0
+0 30 0
+-1
+1
+-1
+2
+-1
+3
+3 99 0
+7 146 0
+-1
+
+movements
+3 99 0
+7 146 0
+0 30 0
+-1
+
+round 61
+score 530 280 370 620
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnn0n0nnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773nn3333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3n3n
+0 n 30 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 99 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 146 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 62
+score 530 280 370 620
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0nnn0n0nnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773nn3333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3n3n
+0 n 30 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 99 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 146 0 0 1
+actions
+0
+0 28 0
+-1
+1
+-1
+2
+-1
+3
+3 95 0
+7 159 0
+-1
+
+movements
+3 95 0
+7 159 0
+0 28 0
+-1
+
+round 63
+score 540 280 370 640
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n0nnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773n33333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n373n
+0 n 28 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 95 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 159 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 64
+score 540 280 370 640
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n0nnnnnnnnnn3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773n33333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n373n
+0 n 28 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 95 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 159 0 0 1
+actions
+0
+0 35 0
+-1
+1
+-1
+2
+-1
+3
+3 41 0
+7 161 0
+-1
+
+movements
+0 35 0
+3 41 0
+7 161 0
+-1
+
+round 65
+score 550 280 370 660
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n0nn0nnnnn3n3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773n33333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 35 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 41 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 161 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 66
+score 550 280 370 660
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n0nn0nnnnn3n3nnn3n77nnnnnnn000nn0n000000n007n7n7nn7n773n37n7773n33333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 35 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 41 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 161 0 0 1
+actions
+0
+0 33 0
+-1
+1
+-1
+2
+-1
+3
+3 40 0
+7 57 0
+-1
+
+movements
+0 33 0
+3 40 0
+7 57 0
+-1
+
+round 67
+score 560 280 370 680
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n00n0nnnn33n3nnn3n77nnnnnn7000nn0n000000n007n7n7nn7n773n37n7773n33333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 33 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 40 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 57 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 68
+score 560 280 370 680
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n00n0nnnn33n3nnn3n77nnnnnn7000nn0n000000n007n7n7nn7n773n37n7773n33333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 33 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 40 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 57 0 0 1
+actions
+0
+0 44 0
+-1
+1
+-1
+2
+-1
+3
+3 45 0
+7 94 0
+-1
+
+movements
+0 44 0
+3 45 0
+7 94 0
+-1
+
+round 69
+score 570 280 370 700
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n00n0nnnn33n303n3n77nnnnnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 44 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 45 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 94 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 70
+score 570 280 370 700
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n00n0nnnn33n303n3n77nnnnnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 44 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 45 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 94 0 0 1
+actions
+0
+0 46 0
+-1
+1
+-1
+2
+-1
+3
+3 37 0
+7 34 0
+-1
+
+movements
+0 46 0
+3 37 0
+7 34 0
+-1
+
+round 71
+score 580 280 370 720
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n0070n3nn33n30303n77nnnnnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 46 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 37 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 34 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 72
+score 580 280 370 720
+status 0 0 0 0
+nn73707ng070nn0n0n0000n0nn0n0n0n0070n3nn33n30303n77nnnnnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 46 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 37 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 34 0 0 1
+actions
+0
+0 53 0
+-1
+1
+-1
+2
+-1
+3
+3 39 0
+7 1 0
+-1
+
+movements
+0 53 0
+3 39 0
+7 1 0
+-1
+
+round 73
+score 590 280 370 740
+status 0 0 0 0
+n773707ng070nn0n0n0000n0nn0n0n0n0070n3n333n30303n77nn0nnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 53 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 39 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 1 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 74
+score 590 280 370 740
+status 0 0 0 0
+n773707ng070nn0n0n0000n0nn0n0n0n0070n3n333n30303n77nn0nnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 53 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 39 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 1 0 0 1
+actions
+0
+0 52 0
+-1
+1
+-1
+2
+-1
+3
+3 36 0
+7 31 0
+-1
+
+movements
+3 36 0
+7 31 0
+0 52 0
+-1
+
+round 75
+score 600 280 370 760
+status 0 0 0 0
+n773707ng070nn0n0n0000n0nn0n0n07007033n333n30303n77n00nnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 52 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 36 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 31 0 0 1
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 76
+score 600 280 370 760
+status 0 0 0 0
+n773707ng070nn0n0n0000n0nn0n0n07007033n333n30303n77n00nnn7000nn0n000000n007n7n7nn7n773n37n7773733333nn7003n70307703n333n33737n3n7337n33n3333n37nn770n077777n3n3737
+0 n 52 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 36 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 31 0 0 1
+actions
+0
+0 55 0
+-1
+1
+-1
+2
+-1
+3
+3 38 0
+7 28 0
+-1
+
+movements
+3 38 0
+7 28 0
+0 55 0
+-1
+
+round 77
+score 610 280 370 770
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n00n0333333n30303nnnn00n0nn000nn0n000000n00nnnnnnnnnnn3n3nnnnn3n33333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nnnnnn3n3n3n
+0 n 55 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 38 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 78
+score 610 280 370 770
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n00n0333333n30303nnnn00n0nn000nn0n000000n00nnnnnnnnnnn3n3nnnnn3n33333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nnnnnn3n3n3n
+0 n 55 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 38 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 56 0
+-1
+1
+-1
+2
+-1
+3
+3 34 0
+-1
+
+movements
+3 34 0
+0 56 0
+-1
+
+round 79
+score 620 280 370 780
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00nnnnnnnnnnn3n3nnnnn3n33333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nnnnnn3n3n3n
+0 n 56 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 34 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 80
+score 620 280 370 780
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00nnnnnnnnnnn3n3nnnnn3n33333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nnnnnn3n3n3n
+0 n 56 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 34 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 75 0
+-1
+1
+-1
+2
+-1
+3
+3 94 0
+-1
+
+movements
+3 94 0
+0 75 0
+-1
+
+round 81
+score 630 280 370 790
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nnnnnn3n3n3n
+0 n 75 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 94 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 82
+score 630 280 370 790
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nnnnnn3n3n3n
+0 n 75 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 94 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 152 0
+-1
+1
+-1
+2
+-1
+3
+3 161 0
+-1
+
+movements
+3 161 0
+0 152 0
+-1
+
+round 83
+score 640 280 370 800
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nn0nnn3n3n33
+0 n 152 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 161 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 84
+score 640 280 370 800
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0nn0nnn3n3n33
+0 n 152 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 161 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 151 0
+-1
+1
+-1
+2
+-1
+3
+3 159 0
+-1
+
+movements
+0 151 0
+3 159 0
+-1
+
+round 85
+score 650 280 370 810
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0n00nnn3n3333
+0 n 151 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 159 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 86
+score 650 280 370 810
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnnn0n0n00nnn3n3333
+0 n 151 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 159 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 150 0
+-1
+1
+-1
+2
+-1
+3
+3 146 0
+-1
+
+movements
+0 150 0
+3 146 0
+-1
+
+round 87
+score 660 280 370 820
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnn30n0000nnn3n3333
+0 n 150 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 146 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 88
+score 660 280 370 820
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333n33n3nn3nn33nn33n3333n3nnnn30n0000nnn3n3333
+0 n 150 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 146 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 119 0
+-1
+1
+-1
+2
+-1
+3
+3 145 0
+-1
+
+movements
+3 145 0
+0 119 0
+-1
+
+round 89
+score 670 280 370 830
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333033n3nn3nn33nn33n3333n3nnn330n0000nnn3n3333
+0 n 119 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 145 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 90
+score 670 280 370 830
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n333033n3nn3nn33nn33n3333n3nnn330n0000nnn3n3333
+0 n 119 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 145 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 122 0
+-1
+1
+-1
+2
+-1
+3
+3 142 0
+-1
+
+movements
+3 142 0
+0 122 0
+-1
+
+round 91
+score 680 280 370 840
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 122 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 142 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 92
+score 680 280 370 840
+status 0 0 0 0
+nnn3n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nnn003nn030nn03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 122 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 142 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 2 0
+-1
+1
+-1
+2
+-1
+3
+3 102 0
+-1
+
+movements
+0 2 0
+3 102 0
+-1
+
+round 93
+score 690 280 370 850
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nn3003nn030nn03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 2 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 102 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 94
+score 690 280 370 850
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnnnnn3n3nnnnn3333333nn3003nn030nn03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 2 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 102 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 82 0
+-1
+1
+-1
+2
+-1
+3
+3 107 0
+-1
+
+movements
+0 82 0
+3 107 0
+-1
+
+round 95
+score 700 280 370 860
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnn0nn3n3nnnnn3333333nn3003n3030nn03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 82 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 107 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 96
+score 700 280 370 860
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnnn0nn3n3nnnnn3333333nn3003n3030nn03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 82 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 107 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 81 0
+-1
+1
+-1
+2
+-1
+3
+3 111 0
+-1
+
+movements
+0 81 0
+3 111 0
+-1
+
+round 97
+score 710 280 370 870
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnn00nn3n3nnnnn3333333nn3003n30303n03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 81 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 111 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 98
+score 710 280 370 870
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnn00nn3n3nnnnn3333333nn3003n30303n03n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 81 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 111 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 83 0
+-1
+1
+-1
+2
+-1
+3
+3 112 0
+-1
+
+movements
+3 112 0
+0 83 0
+-1
+
+round 99
+score 720 280 370 880
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnn000n3n3nnnnn3333333nn3003n30303303n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 83 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 100
+score 720 280 370 880
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnn000n3n3nnnnn3333333nn3003n30303303n33303303nn3nn33nn33n3333n33nn330n0000nnn3n3333
+0 n 83 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 154 0
+-1
+1
+-1
+2
+-1
+3
+3 115 0
+-1
+
+movements
+0 154 0
+3 115 0
+-1
+
+round 101
+score 730 280 370 890
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnn000n3n3nnnnn3333333nn3003n30303303333303303nn3nn33nn33n3333n33nn330n0000n0n3n3333
+0 n 154 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 115 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 102
+score 730 280 370 890
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00n0nnnnn000n3n3nnnnn3333333nn3003n30303303333303303nn3nn33nn33n3333n33nn330n0000n0n3n3333
+0 n 154 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 115 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 155 0
+-1
+1
+-1
+2
+-1
+3
+3 74 0
+-1
+
+movements
+3 74 0
+0 155 0
+-1
+
+round 103
+score 740 280 370 900
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n0030nnnnn000n3n3nnnnn3333333nn3003n30303303333303303nn3nn33nn33n3333n33nn330n0000n003n3333
+0 n 155 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 74 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 104
+score 740 280 370 900
+status 0 0 0 0
+nn03n0nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n0030nnnnn000n3n3nnnnn3333333nn3003n30303303333303303nn3nn33nn33n3333n33nn330n0000n003n3333
+0 n 155 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 74 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 76 0
+-1
+1
+-1
+2
+-1
+3
+3 4 0
+-1
+
+movements
+3 4 0
+0 76 0
+-1
+
+round 105
+score 750 280 370 910
+status 0 0 0 0
+nn0330nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00300nnnn000n3n3nnnnn3333333nn3003n30303303333303303nn3nn33nn33n3333n33nn330n0000n003n3333
+0 n 76 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 4 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 106
+score 750 280 370 910
+status 0 0 0 0
+nn0330nng0n0nn0n0n0000n0nn0n0n0n0030333333n30303nnnn00n00n000nn0n000000n00300nnnn000n3n3nnnnn3333333nn3003n30303303333303303nn3nn33nn33n3333n33nn330n0000n003n3333
+0 n 76 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 4 0 0 1
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 84 0
+-1
+1
+-1
+2
+-1
+3
+3 112 0
+-1
+
+movements
+3 112 0
+0 84 0
+-1
+
+round 107
+score 760 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000nnnnnnnnnnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 84 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 108
+score 760 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000nnnnnnnnnnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 84 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 86 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 86 0
+-1
+
+round 109
+score 770 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnnnnnnnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 86 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 110
+score 770 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnnnnnnnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 86 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 90 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 90 0
+-1
+
+round 111
+score 780 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0nnnnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 90 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 112
+score 780 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0nnnnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 90 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 92 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 92 0
+-1
+
+round 113
+score 790 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 92 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 114
+score 790 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnnnnnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 92 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 133 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 133 0
+-1
+
+round 115
+score 800 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 133 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 116
+score 800 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnnnnnnnnnnnn0n0000n00nnnnnn
+0 n 133 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 137 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 137 0
+-1
+
+round 117
+score 810 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nnnnnnnnn0n0000n00nnnnnn
+0 n 137 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 118
+score 810 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nnnnnnnnn0n0000n00nnnnnn
+0 n 137 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 140 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 140 0
+-1
+
+round 119
+score 820 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 n 140 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 120
+score 820 280 370 910
+status 0 0 0 0
+nn0nn0nng0n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 n 140 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 8 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 8 0
+-1
+
+round 121
+score 830 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 8 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 122
+score 830 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnnnn00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 8 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 101 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 101 0
+-1
+
+round 123
+score 840 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnn0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 101 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 124
+score 840 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnnnn0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 101 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 99 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 99 0
+-1
+
+round 125
+score 850 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnn0n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 99 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 126
+score 850 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnnn0n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 99 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 98 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 98 0
+-1
+
+round 127
+score 860 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 98 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 128
+score 860 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnnnn
+0 g 98 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 160 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 160 0
+-1
+
+round 129
+score 870 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn0n
+0 g 160 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 130
+score 870 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn0n
+0 g 160 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 161 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 161 0
+-1
+
+round 131
+score 880 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 161 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 132
+score 880 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0nnnnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 161 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 94 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 94 0
+-1
+
+round 133
+score 890 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 94 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 134
+score 890 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n00n000nn0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 94 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 57 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 57 0
+-1
+
+round 135
+score 900 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n000000nn0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 57 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 136
+score 900 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n000000nn0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 57 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 61 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 61 0
+-1
+
+round 137
+score 910 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 61 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 138
+score 910 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnnn00
+0 g 61 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 159 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 159 0
+-1
+
+round 139
+score 920 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnn000
+0 g 159 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 140
+score 920 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnnn0n0000n00nnn000
+0 g 159 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 146 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 146 0
+-1
+
+round 141
+score 930 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnn00n0000n00nnn000
+0 g 146 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 142
+score 930 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnnn00n0000n00nnn000
+0 g 146 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 145 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 145 0
+-1
+
+round 143
+score 940 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnn000n0000n00nnn000
+0 g 145 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 144
+score 940 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0nnnn000n0000n00nnn000
+0 g 145 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 142 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 142 0
+-1
+
+round 145
+score 950 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 142 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 146
+score 950 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0n00nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 142 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 102 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 102 0
+-1
+
+round 147
+score 960 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0000nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 102 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 148
+score 960 280 370 910
+status 0 0 0 0
+nn0nn0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0000nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 102 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 3 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 3 0
+-1
+
+round 149
+score 970 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0000nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 3 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 150
+score 970 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n0000nnn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 3 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 105 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 105 0
+-1
+
+round 151
+score 980 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 105 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 152
+score 980 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn0nnnnn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 105 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 116 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 116 0
+-1
+
+round 153
+score 990 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn0nn0nn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 116 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 154
+score 990 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn0nn0nn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 116 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 114 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 114 0
+-1
+
+round 155
+score 1000 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0nn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 114 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 156
+score 1000 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0nn0nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 114 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 118 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 118 0
+-1
+
+round 157
+score 1010 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 118 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 158
+score 1010 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00nn0nnnnnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 118 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 125 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 125 0
+-1
+
+round 159
+score 1020 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00nn0nn0nnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 125 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 160
+score 1020 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00nn0nn0nnnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 125 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 126 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 126 0
+-1
+
+round 161
+score 1030 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00nn0nn00nnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 126 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 162
+score 1030 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00nn0nn00nnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 126 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 121 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 121 0
+-1
+
+round 163
+score 1040 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00nn00nnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 121 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 164
+score 1040 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00nn00nnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 121 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 124 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 124 0
+-1
+
+round 165
+score 1050 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000nnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 124 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 166
+score 1050 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000nnnnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 124 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 128 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 128 0
+-1
+
+round 167
+score 1060 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000n0nnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 128 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 168
+score 1060 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000n0nnnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 128 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 129 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 129 0
+-1
+
+round 169
+score 1070 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000n00nnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 129 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 170
+score 1070 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000n00nnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 129 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 127 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 127 0
+-1
+
+round 171
+score 1080 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000000nnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 127 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 172
+score 1080 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n000000nnn0nnn0nn0n0nn000n0000n00nnn000
+0 g 127 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 130 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 130 0
+-1
+
+round 173
+score 1090 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn0nnn0nn0n0nn000n0000n00nnn000
+0 g 130 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 174
+score 1090 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn0nnn0nn0n0nn000n0000n00nnn000
+0 g 130 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 135 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 135 0
+-1
+
+round 175
+score 1100 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn0n0n0nn0n0nn000n0000n00nnn000
+0 g 135 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 176
+score 1100 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn0n0n0nn0n0nn000n0000n00nnn000
+0 g 135 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 134 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 134 0
+-1
+
+round 177
+score 1110 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn000n0nn0n0nn000n0000n00nnn000
+0 g 134 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 178
+score 1110 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn000n0nn0n0nn000n0000n00nnn000
+0 g 134 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+0 136 0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+0 136 0
+-1
+
+round 179
+score 1120 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn00000nn0n0nn000n0000n00nnn000
+0 g 136 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
+actions
+0
+-1
+1
+-1
+2
+-1
+3
+-1
+
+movements
+-1
+
+round 180
+score 1120 280 370 910
+status 0 0 0 0
+nn00n0nn00n0nn0n0n0000n0nn0n0n0n00n0nnnnnnnn0n0nnnnn00n0000000n0n000000n00n00nnnn0000n0nnn0n0n0nnn00n00000nn0n0nn00n0n00n00n0000000nn00000nn0n0nn000n0000n00nnn000
+0 g 136 0 0 1
+1 n 5 0 0 0
+2 n 110 0 0 0
+3 n 112 0 0 0
+0 n 15 0 0 0
+1 n 63 0 0 0
+2 n 47 0 0 0
+3 n 28 0 0 0
